@@ -18,7 +18,7 @@ GEM
       concurrent-ruby (~> 1.0)
     minitest (5.11.3)
     mustermann (1.0.3)
-    puma (3.12.1)
+    puma (3.12.3)
     rack (2.0.6)
     rack-protection (2.0.5)
       rack
